@@ -1,5 +1,5 @@
 📺苏州频道,#genre#
-新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+新闻综合ly,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+社会经济ly,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+文化生活ly,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+生活资讯ly,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
